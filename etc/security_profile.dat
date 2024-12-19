@@ -1,0 +1,42 @@
+Wed, 29 May 2024 10:23:58 +0700
+:TZ_DRM
+Number of modules
+5
+system/bin/mediaserver
+bb249e4f5d8fc58d376a56931dd56b0f44958991385ee17dfdb08cc7c49f15f4
+system/bin/drmserver
+a3eafe71099ada0b16e27d852a9bd9e98fab555fed6653baf2218b6ef9ab036a
+system/lib/libstagefright.so
+7c9cbb8a3e873b8c1f7a3ec4b58ff8c830f63348938fc6a4e8910983209db9e3
+system/lib/libdrmframework.so
+99b2c61b6989bc7f3570ccc63f99f1a3e16d34a32eb7d567a229b6ad3df4b9c9
+system/lib/libdrmframework_jni.so
+4b0931affebfb5dad72c3cebc87fcd997a10511f9b3ce051c7071ecb706688e8
+:FIDD
+Number of modules
+0
+:CC
+Number of modules
+9
+system/bin/app_process
+0611dbaccf1770538900e651c115a93410e7492211e1a1ea752aa4a20995fe56
+system/bin/charon
+2a98e96d9eaa370acd8ba65402c7396304e5cb4ed8fdffaf2746b9e57aba1945
+system/bin/gatekeeperd
+23d09c65e5f5144d59fb0a076bcec3a7aaa4d5752e236b56295763677a6e1fb2
+system/bin/keystore
+4fe19a8ae237b07f18defab99152f991ac228147aaa4821b41a835fa60cbb729
+system/bin/vold
+013bb8efa17ac8b414b899b2f8e6a6b960533b403e7c80f656650e185fe8239e
+system/lib/libcrypto.so
+a5dae8a070426af4058ced43865c11ad9ccc2f3f059d08e5578ec3602e4c98fa
+system/lib/libkeystore_binder.so
+b47d0b5e92dd00eada55f0f9e62a1e2f21703f53daa54fae1bb4ec18684258b3
+system/lib/libssl.so
+4c2616424b8bb506ced18c13af69379808b1ef452580da19b8850fbda45160fe
+vendor/bin/hw/wpa_supplicant
+1dcd864b890b1f499f2f9bd36f2fe635940abf2a8979a71f421990cd45ad2bfc
+:SYSSCOPE
+Number of modules
+0
+’[Á^ŠFCÛÅ×Şü„…Éójƒ\¥Ò1™Î,°™®™ÚÃíX¤hÓ8{MPùµF®»´½³Å	|díóv[Ÿ‰²CO F¾çër­ÊÙ\ÿ×­i$O-—¾Üï'•™îgäë¸ûWOpùaN%]ŠçáŒ"óW„$'{IüfWÚ –J	Ï…ğ‡ZˆÕ	‹›EïËš$ÍïÆ;·×R_ä96âœĞ„(HÙƒôƒØ¡)À]Åpºey©å“ƒwĞ²}{¼ûxª*Lÿšé†<²»6ÅP´Åw|,e¡QlØƒïaÏ XıÇ½x3³½$^K
